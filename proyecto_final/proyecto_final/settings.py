@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'app', 
     'crispy_forms',
     'django_adminlte3',
-    'django_adminlte3_theme',
 ]
 
 MIDDLEWARE = [
